@@ -3,6 +3,7 @@ package com.devsuperior.dslist.entities;
 import jakarta.persistence.*;
 
 import java.util.Objects;
+
 @Entity
 @Table(name = "tb_game")
 public class Game {
